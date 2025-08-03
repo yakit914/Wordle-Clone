@@ -3,6 +3,6 @@ This is a simple single-player Wordle clone implemented in Python. I created thi
 
 Credits:
 
-Word dictionary sourced from dwyl/english-words.
+Word dictionary sourced from https://github.com/dwyl/english-words
 
 Inspired by the popular game Wordle.
